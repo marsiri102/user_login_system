@@ -1,0 +1,1 @@
+In order for this code to be ran you need to go to your windows powershell and enter "python -m pip install Pillow" since my project uses Pillow to open my images or to resize and display an image as the background.
